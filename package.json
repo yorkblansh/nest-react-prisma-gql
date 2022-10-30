@@ -1,9 +1,8 @@
 {
-	"name": "nest-react-prisma-gql",
+	"name": "nest",
 	"version": "0.0.1",
 	"description": "",
-	"author": "Oleg Chepelev",
-	"private": false,
+	"author": "Oleg Chepelev <yorkblansh@gmail.com>",
 	"license": "MIT",
 	"module": "2022",
 	"scripts": {
